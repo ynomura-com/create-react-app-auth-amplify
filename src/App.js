@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React（Reactを学ぼう）
           </a>
         </header>
         <h1>Sample App</h1>
